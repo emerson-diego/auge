@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch AugebackApplication",
+      "request": "launch",
+      "mainClass": "araujo.financeiro.augeback.AugebackApplication",
+      "projectName": "augeback"
+    },
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:5500/orgchart.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/orgchart.html"
+    }
+  ]
+}
